@@ -4,7 +4,7 @@ L'outil de résumé est basé sur le calcul de similarité entre les phrases d'u
 
 On utilise l'outil de prétraitement de texte en français [french_preprocessing](https://github.com/anaishoareau/french_preprocessing).
 
-L'outil de résumé est inspiré de l'article [Understand text summarization and create your own summarizer inpython](https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70) proposé sur Towards Datascience.
+L'outil de résumé est inspiré de l'article [Understand text summarization and create your own summarizer in python](https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70) proposé sur Towards Datascience.
 
 
 <h1>Table of Contents<span class="tocSkip"></span></h1>
